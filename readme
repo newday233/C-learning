@@ -1,3 +1,10 @@
 
-unordered_map 链表法实现 hash表
+一、HASH实现
+1、unordered_map 链表法实现 hash表
 https://blog.csdn.net/hanzhen7541/article/details/105748755?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0.pc_relevant_baidujshouduan&spm=1001.2101.3001.4242
+
+2、hash 开放地址法
+线性探测 一次聚集问题
+平方探测 二次聚集问题
+双散列
+https://blog.csdn.net/weixin_44449616/article/details/108237707
